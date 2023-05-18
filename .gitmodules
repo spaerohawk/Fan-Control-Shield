@@ -1,0 +1,3 @@
+[submodule "Library/spaerohawk"]
+	path = Library/spaerohawk
+	url = https://github.com/spaerohawk/spaerohawk-kicad-library.git
